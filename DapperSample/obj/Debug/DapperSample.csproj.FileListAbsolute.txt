@@ -1,0 +1,12 @@
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\DapperSample.exe.config
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\DapperSample.exe
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\DapperSample.pdb
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\Dapper.dll
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\Dapper.pdb
+C:\Development\Loop\Windows Applications\DapperSample\bin\Debug\Dapper.xml
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.csprojResolveAssemblyReference.cache
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.frmMain.resources
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.Properties.Resources.resources
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.csproj.GenerateResource.Cache
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.exe
+C:\Development\Loop\Windows Applications\DapperSample\obj\Debug\DapperSample.pdb
